@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Full Stack Learner"
-subtitle:   "Learning evrything from data analysis to web development"
-date:       2015-07-20 12:00:00
+subtitle:   "First Post"
+date:       
 author:     "Wilbert Abreu"
 header-img: "img/post-bg-01.jpg"
 ---
