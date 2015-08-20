@@ -5,6 +5,8 @@ subtitle:   "First Post"
 date:       2015-08-20 12:00:00
 author:     "Wilbert Abreu"
 header-img: "img/post-bg-01.jpg"
+category: programming
+tags: [github, github-pages, jekyll]
 ---
 
 <p>Full Stack Learner first blog post</p>
